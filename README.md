@@ -11,7 +11,7 @@
 ![healthsamurai.svg](/companies/healthsamurai.svg)
 ![itech.png](/companies/itech.png)
 ![jetbrains.svg](/companies/jetbrains.svg)
-![logo-alfa.svg](/companies/logo-alfa.svg)
+![alfa.svg](/companies/alfa.svg)
 ![peter_service.png](/companies/peter_service.png)
 ![qiwi.svg](/companies/qiwi.svg)
 ![raif.svg](/companies/raif.svg)
