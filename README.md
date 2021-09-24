@@ -28,3 +28,4 @@
 ![rtk_it.svg](/companies/rtk_it.svg)
 ![simple_life.svg](/companies/simple_life.svg)
 ![jetrockets.svg](/companies/jetrockets.svg)
+![sber_devices.svg](/companies/sber_devices.svg)
