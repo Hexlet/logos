@@ -51,3 +51,4 @@
 - InSales (партнёр) 
 - Mediasoft (партнёр) 
 - Smeetz (партнёр)
+- LOVATA (работают студенты)
